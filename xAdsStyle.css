@@ -1,0 +1,30 @@
+#xAds-Container {
+	width:500px;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	padding: 10px;
+	padding-top: 0px;
+	border-radius: 5px;
+}
+
+#xAds-Container .xAds-Title {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+#xAds-Container .xAds-Description {
+	font-size: 1em;
+	color: rgba(0, 0, 0, 0.588);
+}
+
+#xAds-Container .xAds-Button {
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 5px;
+}
